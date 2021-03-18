@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+A bot that is a pro at app-fu
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Can make coffee
 
 ## Getting started
 
